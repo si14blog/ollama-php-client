@@ -52,7 +52,5 @@ function sendMessageToOllama($prompt)
 
 // Example usage
 $prompt = "write me a short and simple blog post about php";
-
-//echo 'Me: ' . $prompt;
 sendMessageToOllama($prompt);
 ?>
